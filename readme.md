@@ -1,3 +1,25 @@
+<h1>Hello ! I'm 👨‍💻 <strong>Pratiksha Kadam</strong>.</h1>
+
+<h3 align="center">☁️ 2x Cloud Certified Redhat Linux Support Engineer | 🛡️ AWS Certified Sysops Administrator - Associate | 
+  Google Certified Cloud Engineer | 🎓 Akamai Academy Network-Engineering  | Open-source Contributor | 📚 Blogger | Cloud Security Enthusisast</h>
+
+   ## 💡 Core Skills
+  **Linux** : RHEL, Ubunutu 
+- **Cloud Platforms**: AWS (EC2, S3, IAM, VPC, Lambda), Oracle Cloud, GCP  
+- **Infrastructure as Code (IaC)**: Terraform (multi-cloud), AWS CloudFormation, YAML
+- **Databases**: MySQL, Postgresql, MongoDB, DynamoDB, AWS RDS 
+- **Scripting & Automation**: Bash, PowerShell, Python 
+- **Monitoring & Logging**: AWS CloudWatch, Grafana, Prometheus
+-  **Other**: Jira, Gitlab, Vmware
+
+## 🔧 Tools & Technologies
+
+| Cloud Platforms        | Automation & IaC                    | CI/CD & Monitoring                                        | IDE & Scripting            |
+|------------------------|-------------------------------------|-----------------------------------------------------------|-----------------------------|
+| AWS, Azure             | Terraform, CloudFormation, ARM, Ansible | Azure DevOps, GitHub Actions, Jenkins, CloudWatch, Azure Monitor | VS Code, Bash, PowerShell, Python |
+
+
+## 📂 Featured Projects
 https://github.com/kpratikshak/aws-backup-scripts
 
 ⚡ Serverless & Automation
