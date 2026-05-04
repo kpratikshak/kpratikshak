@@ -1,7 +1,7 @@
 <h1>Hello ! I'm 👨‍💻 <strong>Pratiksha Kadam</strong>.</h1>
 
 <h3 align="center">☁️ 2x Cloud Certified | Experienced Linux L1 Admin | 🛡️ AWS Certified Sysops Administrator - Associate | 
-  Google Certified Cloud Engineer | 🎓 Akamai Academy Network-Engineering Learner | Open-source Contributor | 📚 Blogger | Devsecops Practices</h>
+  Google Certified Cloud Engineer | 🎓 Akamai Academy Graduate | 📚 Blogger | Devsecops advocate</h>
 
    ## 💡 Core Skills
   **Linux** : RHEL, Ubunutu 
